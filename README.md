@@ -1,0 +1,1 @@
+This is a self hosted cloud sort of thing that I made for personal use with sharing files between devices. It is very barebones but if I continue to add new features I will update the code here. It is made in python and uses flask for the requests.
